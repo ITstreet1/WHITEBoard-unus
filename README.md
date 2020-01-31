@@ -32,4 +32,4 @@ WHITEBoard ūnus is the Arduino Uno compatible board. It is based on ATmega328p 
 
 !!On prototype boards 5V and GND markings are switched!!
 
-Schematics is ok.
+Schematic is ok.
