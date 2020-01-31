@@ -28,8 +28,8 @@ WHITEBoard ūnus is the Arduino Uno compatible board. It is based on ATmega328p 
 * 4 pin I2C header
 * I2C, SPI, Serial interfaces
 
-Ūnus, use Uno bootloader, rather then Nano because it saves precious memory. 
+Ūnus, use Uno bootloader, rather then Nano because it saves precious memory. Aditional Oled header for swap Oled I2C screen. Any other I2C device can be added, as long as pinout is as on Oled header. For other I2C devices, please use standard I2C lines.
 
-!!On prototype boards 5V and GND markings are switched!!
+!!On prototype boards, Oled header 5V and GND markings are switched!!
 
 Schematic is ok.
