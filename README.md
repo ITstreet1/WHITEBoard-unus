@@ -27,4 +27,5 @@ WHITEBoard ūnus is the Arduino Uno compatible board. It is based on ATmega328p 
 * Dimensions 65x35mm
 * 4 pin I2C header
 * I2C, SPI, Serial interfaces
+
 Ūnus, use Uno bootloader, rather then Nano because it saves precious memory. 
