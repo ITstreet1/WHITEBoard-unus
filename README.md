@@ -29,3 +29,6 @@ WHITEBoard ūnus is the Arduino Uno compatible board. It is based on ATmega328p 
 * I2C, SPI, Serial interfaces
 
 Ūnus, use Uno bootloader, rather then Nano because it saves precious memory. 
+
+!!On protoype boards 5V and GND markings are switched!!
+Schematics is ok.
